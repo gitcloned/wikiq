@@ -1,6 +1,6 @@
 {
   "name": "wikiq",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Query wikipedia with MediaWiki | Wiki Pages | Categories",
   "main": "wiki.js",
   "dependencies": {
@@ -11,5 +11,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ashish Jain",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitcloned/wikiq.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "wikimedia"
+  ],
+  "bugs": {
+    "url": "https://github.com/gitcloned/wikiq/issues"
+  },
+  "homepage": "https://github.com/gitcloned/wikiq#readme"
 }
