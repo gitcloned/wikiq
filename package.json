@@ -1,0 +1,15 @@
+{
+  "name": "wikiq",
+  "version": "0.0.2",
+  "description": "Query wikipedia with MediaWiki | Wiki Pages | Categories",
+  "main": "wiki.js",
+  "dependencies": {
+    "needle": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Jain",
+  "license": "MIT"
+}

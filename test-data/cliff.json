@@ -1,0 +1,692 @@
+{
+  title: 'CliffordBrown',
+  pageid: 248331,
+  redirects: [],
+  categories: [
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Articles_with_hCards'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'All_articles_with_unsourced_statements'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Articles_with_unsourced_statements_from_May_2013'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Vague_or_ambiguous_time_from_September_2014'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Wikipedia_articles_with_VIAF_identifiers'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Wikipedia_articles_with_LCCN_identifiers'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Wikipedia_articles_with_ISNI_identifiers'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Wikipedia_articles_with_GND_identifiers'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Wikipedia_articles_with_BNF_identifiers'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Wikipedia_articles_with_MusicBrainz_identifiers'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      hidden: '',
+      '*': 'Wikipedia_articles_with_SBN_identifiers'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': '1930_births'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': '1956_deaths'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'African-American_musicians'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'American_jazz_trumpeters'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'Bebop_trumpeters'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'Blue_Note_Records_artists'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'Delaware_State_University_alumni'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'Hard_bop_trumpeters'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'Musicians_from_Philadelphia,
+      _Pennsylvania'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'Musicians_from_Wilmington,
+      _Delaware'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'Road_incident_deaths_in_Pennsylvania'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': 'University_of_Maryland_Eastern_Shore_alumni'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': '20th-century_American_musicians'
+    },
+    {
+      sortkey: 'Brown,
+      Clifford',
+      '*': '20th-century_trumpeters'
+    }
+  ],
+  links: [
+    {
+      ns: 14,
+      exists: '',
+      '*': 'Category: ArticleswithunsourcedstatementsfromMay2013'
+    },
+    {
+      ns: 14,
+      exists: '',
+      '*': 'Category: VagueorambiguoustimefromSeptember2014'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ANightatBirdlandVol.1'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ANightatBirdlandVol.2'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ANightatBirdlandVol.3'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'AloneTogether: TheBestoftheMercuryYears'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ArrangedbyMontrose'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ArtBlakey'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ArturoSandoval'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Bebop'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Bedford,
+      Pennsylvania'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'BennyGolson'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'BestCoastJazz'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'BibliotecaNacionaldeEspaña'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'BibliothèquenationaledeFrance'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'BobGordon(saxophonist)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'BookerLittle'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'BrownandRoachIncorporated'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Brownie: HomagetoCliffordBrown'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CarlPerkins(pianist)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CharlieParker'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CharlieRouse'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Chicago'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Chord(music)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ClarkTerry'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CliffordBrown&MaxRoach'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CliffordBrown(scrutineer)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CliffordBrownAllStars'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CliffordBrownJazzFestival'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CliffordBrownandMaxRoachatBasinStreet'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CliffordBrownwithStrings'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'CliffordF.Brown'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Daahoud'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'DelawareStateUniversity'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'DinahJams'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'DinahWashington'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'DizzyGillespie'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'DonaldByrd'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Dover,
+      Delaware'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'DownBeat'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'DukePearson'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'FatsNavarro'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'FreddieHubbard'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'GeorgeMorrow(bassist)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'GigiGryce'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Hardbop'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'HaroldLand'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'HelenMerrill'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'HelenMerrill(album)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'HerbGeller'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Heroin'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'IRememberClifford(album)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'IRememberClifford(song)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'IntegratedAuthorityFile'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'InternationalStandardBookNumber'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'InternationalStandardNameIdentifier'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'IstitutoCentraleperilCatalogoUnico'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'J.J.Johnson'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'J.J.Johnson'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'JamSession(album)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Jazz'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Jazzstandard'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'JohnFedchock'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'JohnLewis(pianist)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'LeeMorgan'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'LewSoloff'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'LibraryofCongressControlNumber'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'LionelHampton'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'LouDonaldson'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'LouisSmith(musician)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'MainstreamRecords'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'MarcusBelgrave'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'MaxRoach'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'MaynardFerguson'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Memorial(CliffordBrownalbum)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'MemorialAlbum'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'MusicBrainz'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Musicgenre'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'NationalDietLibrary'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'PennsylvaniaTurnpike'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'R&B'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'RichiePowell'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'RoyHargrove'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'RudyVanGelder'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'RussFreeman(pianist)'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'SarahVaughan'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'SarahVaughanwithCliffordBrown'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Scribd'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'SonnyRollins'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'SonnyRollinsPlus4'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'StuWilliamson'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'StudyinBrown'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Systèmeuniversitairededocumentation'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'TaddDameron'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'TeddyEdwards'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'TerenceBlanchard'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'TheEminentJ.J.JohnsonVolume1'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'TheUniversityoftheArts'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'TomHarrell'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'UniversityofMarylandEasternShore'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'VirtualInternationalAuthorityFile'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'WallaceRoney'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'Wilmington,
+      Delaware'
+    },
+    {
+      ns: 0,
+      exists: '',
+      '*': 'ZootSims'
+    },
+    {
+      ns: 0,
+      '*': 'ChrisPowell(musician)'
+    },
+    {
+      ns: 4,
+      exists: '',
+      '*': 'Wikipedia: Citationneeded'
+    },
+    {
+      ns: 4,
+      exists: '',
+      '*': 'Wikipedia: ManualofStyle/Datesandnumbers'
+    },
+    {
+      ns: 12,
+      exists: '',
+      '*': 'Help: Authoritycontrol'
+    }
+  ],
+  externallinks: [
+    'http: //www.allmusic.com/artist/p6185/biography', 'http: //www.jazzstandards.com/compositions-5/joyspring.htm', 'http: //www.jazzstandards.com/compositions-7/daahoud.htm', 'http: //www.scribd.com/doc/34152643/Clifford-Brown%E2%80%99s-Philadelphia-pdf', 'http: //www.jazz.com/encyclopedia/brown-clifford', 'http: //www.delawareonline.com/article/20060625/LIFE/60623028/50-years-since-Clifford-Brown-s-death?nclick_check=1', 'http: //www.cliffordbrown.net/', 'http: //members.tripod.com/~hardbop/brownie.html', 'http: //www.washingtonpost.com/wp-dyn/content/article/2006/06/25/AR2006062500962.html?nav=rss_print/style', '//www.worldcat.org/identities/containsVIAFID/19864699',
+    'https: //viaf.org/viaf/19864699', 'http: //id.loc.gov/authorities/names/n82013477', 'http: //isni.org/isni/0000000121232204', 'http: //d-nb.info/gnd/122167953', 'http: //www.idref.fr/033183457', 'http: //catalogue.bnf.fr/ark:/12148/cb13891891d', 'http: //data.bnf.fr/ark:/12148/cb13891891d', '//musicbrainz.org/artist/2a291f34-73cb-40c5-b721-eab1269c7ba8',
+    'http: //id.ndl.go.jp/auth/ndlna/00928398', 'http: //opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=IT%5CICCU%5CMILV%5C117887', 'http: //catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX1581455' ] } 
