@@ -1,6 +1,6 @@
 {
   "name": "wikiq",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Query wikipedia with MediaWiki | Wiki Pages | Categories",
   "main": "wiki.js",
   "dependencies": {
